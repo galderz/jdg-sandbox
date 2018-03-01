@@ -14,7 +14,11 @@
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
+      <!-- For JDG 6.4.1 -->
       <infinispan.version>6.4.1.Final-redhat-1</infinispan.version>
+
+      <!-- For JDG 7.1.2 -->
+      <!--<infinispan.version>8.4.2.Final-redhat-1</infinispan.version>-->
    </properties>
 
    <dependencyManagement>
